@@ -146,13 +146,13 @@ nav .container .menu-button {
   transition: 0.2s;
 }
 .product-card .sole-air-ii {
-  background-image: url("https://content.codecademy.com/courses/jquery/audit/images/sole-air-ii.png");
+  background-image: url("../images/sole-air-ii.png");
 }
 .product-card .tidal-x {
-  background-image: url("https://content.codecademy.com/courses/jquery/audit/images/tidal-x.png");
+  background-image: url("../images/tidal-x.png");
 }
 .product-card .dark-sole-original {
-  background-image: url("https://content.codecademy.com/courses/jquery/audit/images/dark-sole-original.png");
+  background-image: url("../images/dark-sole-original.png");
 }
 .product-card .photo-active {
   background-size: 30.8em 16.5em;
