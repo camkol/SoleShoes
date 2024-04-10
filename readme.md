@@ -32,6 +32,12 @@ Users should be able to:
 
 ## My process
 
+- jQuery used for simple interactions.
+- Hidden navigation menu with dropdown options. Hidden login form that slides down when the login button is clicked.
+- Responsive design for different screen sizes.
+- Media queries used to adjust button sizes and fonts for different screen widths.
+- This process creates a visually appealing and interactive website, showcasing products and providing user-friendly navigation.
+
 ### Built with
 
 - Semantic HTML5 markup
