@@ -49,7 +49,7 @@ Users should be able to:
 
 ### What I learned
 
-This was done during the jQuery course. Learned the possibilities of jquery.
+This was done during the jQuery course. Learned the possibilities of jQuery.
 
 ### Continued development
 
